@@ -25,4 +25,4 @@ The `threadform.svg` wallpaper is original. Threadform OS is an independent Ubun
 See [FEATURES.md](FEATURES.md) for three local tools included for fashion design.
 
 
-The installer includes fifteen additional purpose-specific applications; the complete list is in [FEATURES.md](FEATURES.md).
+The installer includes 43 purpose-specific applications beyond its core selection; the complete list is in [FEATURES.md](FEATURES.md).
